@@ -1,1 +1,2 @@
-# AICTE-TECHSAKSHAM-IMAGE-CLASSIFICATION-by-MACHINE-LEARNING-B1
+# AICTE-TECHSAKSHAM-IMAGE-CLASSIFICATION
+A CNN based model trained on cifar10 dataset for image classifiaction 
